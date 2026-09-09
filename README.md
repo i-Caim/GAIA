@@ -1,3 +1,25 @@
+
+
+https://github.com/user-attachments/assets/51a21fda-bc7d-480b-8d85-4b215804b5de
+
+
+
+https://github.com/user-attachments/assets/9297f9fb-21c9-4b09-a971-fe9878e98c9f
+
+
+
+https://github.com/user-attachments/assets/e9288cd6-2a57-4055-a1e0-c6de207665b9
+
+
+
+https://github.com/user-attachments/assets/e0c8aae8-15ac-4242-8492-e75808f8c9ab
+
+
+
+
+
+
+
 # GAIA
 GAIA is a data-driven urban greening intelligence platform that uses satellite imagery to identify and prioritize areas in Riyadh most in need of vegetation.
 
